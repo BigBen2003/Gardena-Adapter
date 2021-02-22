@@ -7,3 +7,6 @@ Der Gardena Adapter wurde von der Quelle https://www.thingiverse.com/thing:46540
 
 Mit Hilfe des Doppelapapters kann ein 1/2" Verbiner direkt mit einem 3/4" Vebinder verbunden werden.
 
+**Hinweis**
+Der Adapter wurde (noch) nicht ausgedruckt, ein Ausdruck erfolgt erst später, sobald ein 3d Drucker zur Verfügung steht.
+
