@@ -1,5 +1,5 @@
 # Gardena-Adapter
-Gardana kompatible Adapter
+Gardena kompatible Adapter
 
 Der Gardena Adapter wurde von der Quelle https://www.thingiverse.com/thing:4654052 heraus modifiziert.
 
